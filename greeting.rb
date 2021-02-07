@@ -1,4 +1,4 @@
-def greeting
+pwddef greeting
   puts "Hello World"
 end
 
