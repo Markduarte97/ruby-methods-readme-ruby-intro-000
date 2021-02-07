@@ -1,9 +1,5 @@
-def greeting
-  puts "Hello World"
+def jailene
+  puts "is gay"
 end
 
-greeting
-greeting
-greeting
-greeting
-greeting
+jailene
