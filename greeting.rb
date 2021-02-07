@@ -1,5 +1,5 @@
 def jailene
-  puts "is gay"
+  puts "jailene is gay"
 end
 
 jailene
